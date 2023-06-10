@@ -2,6 +2,7 @@
 PENDING
 - Definir una forma de navegar los productos de meli
 - Evaluar todas las reviews (buscar como no repetir evaluaciones y guardarlas)
+- Cuando le pega a discord deberia mandar el item y reseña evaluadas
 '''
 
 
